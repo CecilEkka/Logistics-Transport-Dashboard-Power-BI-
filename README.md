@@ -56,30 +56,80 @@ The Power BI dashboard consists of the following pages:
 ![Landing Page](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
 This is the main entry point of the dashboard. It provides a brief introduction to the project and features navigation buttons that allow users to jump to specific analysis pages:
 
-### 🧭 Executive Overview  
-High-level KPIs and filters for instant visibility across the shipping ecosystem.
+## 📊 **1. Executive Overview**
+
+Purpose: High-level KPIs and filters for instant visibility across the shipping ecosystem.
 
 ![Executive Overview](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
 
-### 💰 Financial Performance  
-Revenue, cost, and profit trends by month, container type, and company.
+Key Features:
+
+* **KPI Cards**: Revenue, Cost, Profit, Profit Margin, Avg Delay,
+* **On-Time % Filters**: Company, Container Type, Country 
+* **Essence**: Offers a quick snapshot of global shipping performance---ideal for managers tracking profit and delays at a glance.
+
+
+
+## 💰 **2. Financial Performance**
+
+Purpose: Revenue, cost, and profit trends by month, container type, and company.
 
 ![Financial Performance](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
 
-### 📦 Operational Efficiency  
-Metrics on TEUs, shipments, delays, and transshipments with container-wise breakdowns.
+Key Features:
+
+* **Bar Charts & Line Graphs**: Revenue vs. Cost by Company and Container Type 
+* **Matrix View**: Profit margins segmented by container and month
+ * **Insights**: Identify which carrier or container is generating higher profits or incurring loss.
+
+
+
+## 📦 **3. Operational Efficiency**
+
+Purpose: Metrics on TEUs, shipments, delays, and transshipments with container-wise breakdowns.
 
 ![Operational Efficiency](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
 
-### 🌍 Map Overview  
-Country-wise container movement and profitability with dynamic filters.
+**Key Features:**
+
+* **KPI Cards**: TEU totals, Transshipment %, Avg Delay 
+* **Visuals**: Container handling costs, Shipment breakdowns Transshipment analysis 
+* **Highlights**: Pinpoint bottlenecks and delay contributors, such as container types or shipping routes.
+
+
+
+## 🌍 **4. Map Overview**
+
+Purpose: Country-wise container movement and profitability with dynamic filters.
 
 ![Map Overview](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
 
-### 📂 Details View  
-Shipment-level records with all metrics – accessible via **drill-throughs** and bookmarks.
+Key Features:
 
+* **Map Visual**: Shipment origin country vs. revenue contribution
+* **Slicer/Filter**: Country, Carrier, Month 
+* **Usefulness**:Understand which regions contribute most to profit and where delays or costs are higher.
+
+
+## 📂 **5. Shipment Detail View (Drill-Through Page)**
+
+Purpose: Shipment-level records with all metrics – accessible via **drill-throughs** and bookmarks.
 ![Details View](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
+
+Key Features:
+* **Drill-through Functionality**: Navigate from high-level views
+into detailed records 
+* **Tables**: Full shipment details --- including Container ID, Type, Dates, Delay, Carrier, Cost & Revenue 
+* **Bookmarks**: Used for toggling specific filters and views easily
+* **Benefit**: Allows operational analysts to isolate and investigate outliers or problematic shipments.
+
+
+## 🛠️ **Advanced Features Across Pages**
+
+* **Drill-throughs**: Users can right-click and navigate from summary to detail pages (e.g., by container or company) 
+* **Bookmarks**: Used to switch between different filtered views or highlight layouts without clutter 
+* **Interactive Slicers**: Country, Company, Container Type Vessel, Month
+
 
 ## 🧮 SQL Analysis
 
