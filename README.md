@@ -4,11 +4,11 @@ This project delivers a comprehensive business intelligence dashboard that analy
 
 ## 📋 Table of Contents
 
-- [Project Objective](#project-objective)  
-- [Dataset Description](#dataset-description)  
-- [Methodology](#methodology)  
-- [Dashboard Snapshots](#dashboard-snapshots)  
-- [SQL Analysis](#sql-analysis)
+- [Project Objective](#-project-objective)  
+- [Dataset Description](#-dataset-description)  
+- [Methodology](#-methodology)  
+- [Dashboard Snapshots](#-dashboard-snapshots)  
+- [SQL Analysis](#-sql-analysis)
 
 ## 🎯 Project Objective
 
