@@ -60,7 +60,7 @@ This is the main entry point of the dashboard. It provides a brief introduction 
 
 Purpose: High-level KPIs and filters for instant visibility across the shipping ecosystem.
 
-![Executive Overview](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
+![Executive Overview](https://github.com/CecilEkka/Logistics-Transport-Dashboard-Power-BI-/blob/main/Dashboard_Image/2.Overview.png)
 
 Key Features:
 
@@ -74,7 +74,7 @@ Key Features:
 
 Purpose: Revenue, cost, and profit trends by month, container type, and company.
 
-![Financial Performance](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
+![Financial Performance](https://github.com/CecilEkka/Logistics-Transport-Dashboard-Power-BI-/blob/main/Dashboard_Image/3.Financial.png)
 
 Key Features:
 
@@ -88,7 +88,7 @@ Key Features:
 
 Purpose: Metrics on TEUs, shipments, delays, and transshipments with container-wise breakdowns.
 
-![Operational Efficiency](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
+![Operational Efficiency](https://github.com/CecilEkka/Logistics-Transport-Dashboard-Power-BI-/blob/main/Dashboard_Image/4.Operations.png)
 
 **Key Features:**
 
@@ -102,7 +102,7 @@ Purpose: Metrics on TEUs, shipments, delays, and transshipments with container-w
 
 Purpose: Country-wise container movement and profitability with dynamic filters.
 
-![Map Overview](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
+![Map Overview](https://github.com/CecilEkka/Logistics-Transport-Dashboard-Power-BI-/blob/main/Dashboard_Image/5.MAP.png)
 
 Key Features:
 
@@ -114,7 +114,7 @@ Key Features:
 ## 📂 **5. Shipment Detail View (Drill-Through Page)**
 
 Purpose: Shipment-level records with all metrics – accessible via **drill-throughs** and bookmarks.
-![Details View](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
+![Details View](https://github.com/CecilEkka/Logistics-Transport-Dashboard-Power-BI-/blob/main/Dashboard_Image/6.DETAILS.png)
 
 Key Features:
 * **Drill-through Functionality**: Navigate from high-level views
